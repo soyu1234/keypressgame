@@ -10,10 +10,10 @@
     <script src="assets/js/soundCreate.js"></script>
     <script type="text/paperscript" canvas="canvas">
         var keys=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
-            
+
         function onKeyDown(event){
             for(var a=0; a<26;a++){
-                if(event.key===keys[a]){
+                if(event.key===keys[a] || event.key===keys[a].upperCase){
                     pathCreate();
                     break;
                 }
