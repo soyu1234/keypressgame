@@ -1,4 +1,4 @@
-#CHATAPAT
+# CHATAPAT
 
   Simpler implementation of <a href="https://patatap.com/">Patatap</a> keypress game.</br>Clone,open index.html and start to press keys</br></br>
   <strong>About</strong></br>
