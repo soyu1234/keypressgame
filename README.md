@@ -1,7 +1,7 @@
 <strong>CHATAPAT</strong>
 
   Simpler implementation of <a href="https://patatap.com/">Patatap</a> keypress game.</br>Clone,open index.html and start to press keys</br></br>
-  <strong>Getting Started</strong></br>
+  <strong>About</strong></br>
   Howler.js library has used for sounds, paper.js has used for circles and animations.There is no prerequirement</br></br>
   <strong>Author</strong></br>
   Furkan Kursun</br></br>
